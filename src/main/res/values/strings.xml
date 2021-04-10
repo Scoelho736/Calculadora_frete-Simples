@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora-fretes</string>
+    <string name="Entre_com_peso">Entre com o peso</string>
+    <string name="valor_frete">Valor Frete: R$</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="valor_frete_por_ton">Valor do Frete por ton</string>
+</resources>
